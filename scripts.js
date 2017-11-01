@@ -1,6 +1,6 @@
 
-a=1;
-b=10;
+var a=1;
+var b=10;
 var value=((a * a) - (2 * a * b) + (b * b));
 //tak dla pewności
 //var value=(a-b); 
