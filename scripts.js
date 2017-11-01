@@ -1,5 +1,5 @@
 
-a=0;
+a=1;
 b=10;
 var value=((a * a) - (2 * a * b) + (b * b));
 //tak dla pewności
