@@ -1,2 +1,1 @@
-# sprawdzanie-value
-sprawdzanie wartości dodatniej i ujemnej na działaniach
+❉ sprawdzanie wartości dodatniej i ujemnej na działaniach
